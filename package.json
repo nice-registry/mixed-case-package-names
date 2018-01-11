@@ -1,0 +1,13 @@
+{
+  "name": "mixed-case-package-names",
+  "version": "1.0.0",
+  "description": "A study of existing mixed-case packages in the npm registry",
+  "main": "index.js",
+  "repository": "https://github.com/nice-registry/mixed-case-package-names",
+  "author": "zeke",
+  "license": "MIT",
+  "dependencies": {
+    "all-the-package-names": "^1.3440.0",
+    "dedent": "^0.7.0"
+  }
+}
